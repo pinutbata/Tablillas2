@@ -2,12 +2,12 @@
     at calc(.5*var(--b)),#0000 calc(100% - 1px), red)0 0/ calc(200% - var(--b)) 2lh border-box;
     background-blend-mode:color-burn;}
 #alidabase{display: flex;justify-content: center;align-items:center;margin-left:180px;
-    margin-bottom: -105px;margin-top: -20px;transform: rotate(5deg)}
+    margin-bottom: -105px;transform: rotate(5deg)}
 #alidafons{width: 200px;height:100px;}
 #alidatos{font-family: 'Edu VIC WA NT Beginner';font-size:18px;width: 140px;height:auto;
     margin-left: -165px;margin-top: -10px;}
 
-#alipap{width: 550px;height: 350px;margin-top: -30px;}
+#alipap{width: 550px;height: 350px;margin-top: 30px;}
 
 #alitit{width: 550px;height: auto;padding-top: 30px;text-align: center;}
 #alitit1{font-family: 'Edu VIC WA NT Beginner';font-size: 25px;width: 500px;margin-bottom: -50px;
