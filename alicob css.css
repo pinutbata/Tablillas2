@@ -14,7 +14,7 @@
     padding-left: 70px;}
 #alitit2{font-family: 'Raqillas';font-size: 90px;width: 500px;}
 
-#alipols{display: flex;justify-content: space-between;width: 420px;margin-top: -320px;}
+#alipols{display: flex;justify-content: space-between;width: 420px;}
 #alipol1{width: 180px;height: 180px;transform: rotate(-2deg);box-shadow: 0 5px 5px #0000006f;}
 #alipol2{width: 200px;height: 200px;margin-top:50px;transform: rotate(5deg);
     box-shadow: 0 5px 5px #0000006f;}
