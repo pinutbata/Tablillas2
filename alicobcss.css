@@ -10,7 +10,7 @@
 #alipap{width: 550px;height: 350px;margin-top: 70px;}
 
 #alitit{width: 550px;height: auto;padding-top: 100px;text-align: center;}
-#alitit1{font-family: 'Edu VIC WA NT Beginner';font-size: 25px;width: 500px;margin-bottom: -50px;
+#alitit1{font-family: 'Edu VIC WA NT Beginner';font-size: 25px;width: 500px;
     padding-left: 70px;}
 #alitit2{font-family: 'Raqillas';font-size: 90px;width: 500px;}
 
@@ -59,7 +59,7 @@
     margin-left: -165px;margin-top: -5px;}
 
 #aliinbase2{display: flex;justify-content: center;align-items:center;margin-left:100px;
-    transform: rotate(-5deg);margin-top: -10px;margin-left: 5px;}
+    transform: rotate(-5deg);margin-top: -10px;margin-left: 55px;}
 #aliinfons2{width: 200px;height:100px;}
 #aliinfo2{font-family: 'Edu VIC WA NT Beginner';font-size:18px;width: 140px;height:auto;
     margin-left: -165px;margin-top: -5px;}
