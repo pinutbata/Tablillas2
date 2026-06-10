@@ -7,14 +7,14 @@
 #alidatos{font-family: 'Edu VIC WA NT Beginner';font-size:18px;width: 140px;height:auto;
     margin-left: -165px;margin-top: -10px;}
 
-#alipap{width: 550px;height: 350px;margin-top: 30px;}
+#alipap{width: 550px;height: 350px;margin-top: 70px;}
 
-#alitit{width: 550px;height: auto;padding-top: 30px;text-align: center;}
+#alitit{width: 550px;height: auto;padding-top: 100px;text-align: center;}
 #alitit1{font-family: 'Edu VIC WA NT Beginner';font-size: 25px;width: 500px;margin-bottom: -50px;
     padding-left: 70px;}
 #alitit2{font-family: 'Raqillas';font-size: 90px;width: 500px;}
 
-#alipols{display: flex;justify-content: space-between;width: 420px;}
+#alipols{display: flex;justify-content: space-between;width: 420px;margin-top: -320px;}
 #alipol1{width: 180px;height: 180px;transform: rotate(-2deg);box-shadow: 0 5px 5px #0000006f;}
 #alipol2{width: 200px;height: 200px;margin-top:50px;transform: rotate(5deg);
     box-shadow: 0 5px 5px #0000006f;}
