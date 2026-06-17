@@ -1,8 +1,8 @@
 #mafbase{width: 650px;height: auto;background: #0b110e;padding: 10px;}
 #maftit{color: #ffffff;text-shadow: 0 0 10px #00ff88,0 0 5px #ffffff;
-font-size: 80px;font-family: 'President Nixon';text-decoration: underline;}
+font-size: 80px;font-family: 'President Nixon';text-decoration: underline;margin-top:40px;}
 #mafsubtit{color: #ffffff;text-shadow: 0 0 10px #00ff88,0 0 5px #ffffff;
-font-size: 12px;font-family: 'Beyonders';margin-top:-8px; margin-bottom: 15px;}
+font-size: 12px;font-family: 'Beyonders';margin-top:20px; margin-bottom: 15px;}
 #mafpjs{width: 600px;display: flex;flex-wrap: wrap;justify-content:center;padding: 10px;
 margin-right: -20px;}
 
