@@ -130,7 +130,7 @@ font-size: 16px;}
 
 #mafinfo{width: 350px;;color: #ffffff;text-shadow: 0 0 10px #00ff88,0 0 5px #ffffff;
 font-size: 30px;font-family: 'President Nixon';margin-top:-80px;margin-left: -300px;
-margin-bottom: 15px;}
+margin-bottom: 15px;line-height:0.8;}
 #mafresum{color: #88ffc8;width: 520px;height: 300px;overflow: auto;text-align: justify;
 font-family: 'IM FELL French Canon';font-size: 16px;border: #00ff88 solid; padding: 10px;
 margin: 20px;scrollbar-width:thin;scrollbar-color: #00ff88 #ffffff00;margin-top: 30px;}
