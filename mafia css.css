@@ -1,0 +1,136 @@
+#mafbase{width: 650px;height: auto;background: #0b110e;padding: 10px;}
+#maftit{color: #ffffff;text-shadow: 0 0 10px #00ff88,0 0 5px #ffffff;
+font-size: 80px;font-family: 'President Nixon';text-decoration: underline;}
+#mafsubtit{color: #ffffff;text-shadow: 0 0 10px #00ff88,0 0 5px #ffffff;
+font-size: 12px;font-family: 'Beyonders';margin-top:-8px; margin-bottom: 15px;}
+#mafpjs{width: 600px;display: flex;flex-wrap: wrap;justify-content:center;padding: 10px;
+margin-right: -20px;}
+
+#mafpj1{display: flex;justify-content:center; align-items: center;align-content:center;
+margin-right: 10px;}
+#maficon1{width: 150px;height: 150px;margin-right: -172px;margin-bottom: -40px;}
+#mafmarc1{background-image: url(https://i.ibb.co/wNDhCxH7/Cam-1.png);width: 313px;
+height: 203px;background-size: cover; background-position: center;}
+#mafpj1overlay{position: absolute;height: 115px; width: 150px;opacity: 0;
+transition: .9s ease; background-image: url(https://i.ibb.co/4wGzBwC1/690b26b8147ad01dd5c992af8514af63.gif);
+overflow: auto;background-size: cover; background-position: center;margin-top: 12px;
+color: #ffffff;align-content:center;font-family: 'IM FELL French Canon';font-size: 16px;}
+#maficon1:hover
+#mafpj1overlay{opacity: 0.8;}
+
+#mafpj2{display: flex;justify-content:center; align-items: center;align-content:center;}
+#maficon2{width: 150px;height: 150px;margin-right: -162px;margin-bottom: 3px;}
+#mafmarc2{background-image: url(https://i.ibb.co/nsF3SNQr/cam-2.png);width: 209px;
+height: 179px;background-size: cover; background-position: center;}
+#mafpj2overlay{position: absolute;height: 140px; width: 145px;opacity: 0;
+transition: .9s ease; background-image: url(https://gifdb.com/images/high/tv-static-neon-glitch-1qkhobcsimmlr3rl.webp);
+overflow: auto;background-size: cover; background-position: center;
+color: #ffffff;align-content:center;font-family: 'IM FELL French Canon';font-size: 16px;}
+#maficon2:hover
+#mafpj2overlay{opacity: 0.8;}
+
+#mafpj3{display: flex;justify-content:center; align-items: center;align-content:center;
+margin-top: -80px;}
+#maficon3{width: 150px;height: 150px;margin-right: -168px;margin-bottom: 7px;}
+#mafmarc3{background-image: url(https://i.ibb.co/ynqZ6yRc/cam-3.png);width: 189px;
+height: 206px;background-size: cover; background-position: center;}
+#mafpj3overlay{position: absolute;height: 135px; width: 145px;opacity: 0;
+transition: .9s ease; background-image: url(https://gifdb.com/images/high/tv-static-neon-glitch-1qkhobcsimmlr3rl.webp);
+overflow: auto;background-size: cover; background-position: center;margin-left: 5px;
+color: #ffffff;align-content:center;font-family: 'IM FELL French Canon';font-size: 16px;}
+#maficon3:hover
+#mafpj3overlay{opacity: 0.8;}
+
+#mafpj4{display: flex;justify-content:center; align-items: center;align-content:center;
+margin-top: -50px;margin-left: 20px;margin-right: 40px;}
+#maficon4{width: 150px;height: 150px;margin-right: -168px;margin-bottom: 30px;}
+#mafmarc4{background-image: url(https://i.ibb.co/fYCdTn4K/cam-4.png);width: 190px;
+height: 240px;background-size: cover; background-position: center;}
+#mafpj4overlay{position: absolute;height: 143px; width: 145px;opacity: 0;
+transition: .9s ease; background-image: url(https://i.ibb.co/4wGzBwC1/690b26b8147ad01dd5c992af8514af63.gif);
+overflow: auto;background-size: cover; background-position: center;margin-left: 3px;
+color: #ffffff;align-content:center;font-family: 'IM FELL French Canon';font-size: 16px;}
+#maficon4:hover
+#mafpj4overlay{opacity: 0.8;}
+
+#mafpj5{display: flex;justify-content:center; align-items: center;align-content:center;
+margin-right: -15px;margin-top: -10px;}
+#maficon5{width: 150px;height: 150px;margin-right: -190px;margin-bottom: 88px;}
+#mafmarc5{background-image: url(https://i.ibb.co/TDbGQXfm/cam-5.png);width: 235px;
+height: 296px;background-size: cover; background-position: center;}
+#mafpj5overlay{position: absolute;height: 140px; width: 145px;opacity: 0;
+transition: .9s ease; background-image: url(https://gifdb.com/images/high/tv-static-neon-glitch-1qkhobcsimmlr3rl.webp);
+overflow: auto;background-size: cover; background-position: center;margin-left: 5px;
+margin-top: 3px;color: #ffffff;align-content:center;font-family: 'IM FELL French Canon';
+font-size: 16px;}
+#maficon5:hover
+#mafpj5overlay{opacity: 0.8;}
+
+#mafpj6{display: flex;justify-content:center; align-items: center;align-content:center;
+margin-top: -80px;margin-left: -20px;}
+#maficon6{width: 150px;height: 150px;margin-right: -180px;margin-bottom: 83px;}
+#mafmarc6{background-image: url(https://i.ibb.co/Hp29PT3B/cam-7.png);width: 210px;
+height: 313px;background-size: cover; background-position: center;}
+#mafpj6overlay{position: absolute;height: 143px; width: 146px;opacity: 0;
+transition: .9s ease; background-image: url(https://i.ibb.co/4wGzBwC1/690b26b8147ad01dd5c992af8514af63.gif);
+overflow: auto;background-size: cover; background-position: center;margin-left: 2px;
+margin-top: 1px;color: #ffffff;align-content:center;font-family: 'IM FELL French Canon';
+font-size: 16px;}
+#maficon6:hover
+#mafpj6overlay{opacity: 0.8;}
+
+#mafpj7{display: flex;justify-content:center; align-items: center;align-content:center;
+margin-top: -80px;margin-left: 30px;margin-right: 20px;}
+#maficon7{width: 150px;height: 150px;margin-right: -170px;margin-bottom: 63px;}
+#mafmarc7{background-image: url(https://i.ibb.co/B24myp1Z/cam-6.png);width: 178px;
+height: 244px;background-size: cover; background-position: center;}
+#mafpj7overlay{position: absolute;height: 140px; width: 141px;opacity: 0;
+transition: .9s ease; background-image: url(https://gifdb.com/images/high/tv-static-neon-glitch-1qkhobcsimmlr3rl.webp);
+overflow: auto;background-size: cover; background-position: center;margin-top: 7px;
+color: #ffffff;align-content:center;font-family: 'IM FELL French Canon';font-size: 16px;}
+#maficon7:hover
+#mafpj7overlay{opacity: 0.8;}
+
+#mafpj8{display: flex;justify-content:center; align-items: center;align-content:center;
+margin-left: 20px;}
+#maficon8{width: 150px;height: 150px;margin-right: -168px;margin-bottom: 38px;}
+#mafmarc8{background-image: url(https://i.ibb.co/dswHWNDb/cam-8.png);width: 183px;
+height: 233px;background-size: cover; background-position: center;}
+#mafpj8overlay{position: absolute;height: 140px; width: 145px;opacity: 0;
+transition: .9s ease; background-image: url(https://i.ibb.co/4wGzBwC1/690b26b8147ad01dd5c992af8514af63.gif);
+overflow: auto;background-size: cover; background-position: center;margin-top: 6px;
+color: #ffffff;align-content:center;font-family: 'IM FELL French Canon';font-size: 16px;}
+#maficon8:hover
+#mafpj8overlay{opacity: 0.8;}
+
+#mafpj9{display: flex;justify-content:center; align-items: center;align-content:center;
+margin-left: 20px;margin-top: -90px;}
+#maficon9{width: 150px;height: 150px;margin-right: -166px;margin-bottom: -28px;}
+#mafmarc9{background-image: url(https://i.ibb.co/hxQTPrGh/cam-10.png);width: 259px;
+height: 209px;background-size: cover; background-position: center;}
+#mafpj9overlay{position: absolute;height: 132px; width: 145px;opacity: 0;
+transition: .9s ease; background-image: url(https://i.ibb.co/4wGzBwC1/690b26b8147ad01dd5c992af8514af63.gif);
+overflow: auto;background-size: cover; background-position: center;margin-top: 15px;
+color: #ffffff;align-content:center;font-family: 'IM FELL French Canon';font-size: 16px;}
+#maficon9:hover
+#mafpj9overlay{opacity: 0.8;}
+
+#mafpj10{display: flex;justify-content:center; align-items: center;align-content:center;
+margin-left: 30px;}
+#maficon10{width: 150px;height: 150px;margin-right: -195px;margin-bottom: 100px;}
+#mafmarc10{background-image: url(https://i.ibb.co/CpJv7VQM/cam-9.png);width: 241px;
+height: 287px;background-size: cover; background-position: center;}
+#mafpj10overlay{position: absolute;height: 122px; width: 145px;opacity: 0;
+transition: .9s ease; background-image: url(https://gifdb.com/images/high/tv-static-neon-glitch-1qkhobcsimmlr3rl.webp);
+overflow: auto;background-size: cover; background-position: center;margin-top: 8px;
+margin-left: 3px;color: #ffffff;align-content:center;font-family: 'IM FELL French Canon';
+font-size: 16px;}
+#maficon10:hover
+#mafpj10overlay{opacity: 0.8;}
+
+#mafinfo{width: 350px;;color: #ffffff;text-shadow: 0 0 10px #00ff88,0 0 5px #ffffff;
+font-size: 30px;font-family: 'President Nixon';margin-top:-80px;margin-left: -300px;
+margin-bottom: 15px;}
+#mafresum{color: #88ffc8;width: 520px;height: 300px;overflow: auto;text-align: justify;
+font-family: 'IM FELL French Canon';font-size: 16px;border: #00ff88 solid; padding: 10px;
+margin: 20px;scrollbar-width:thin;scrollbar-color: #00ff88 #ffffff00;margin-top: 30px;}
